@@ -1,5 +1,5 @@
 # RetrOSMC Launcher
-Rebranding and update to the RetrOSMC launcher that gets installed in this script: https://github.com/mcobit/retrosmc
+Update containing fixes and rebranding of the RetrOSMC launcher from this script: https://github.com/mcobit/retrosmc
 
 ![Add-on Configuration](https://i.imgur.com/WCtrJwq.jpg)
 
